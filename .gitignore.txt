@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.xlsx
+*.h5
+*.pickle
+*.pyc
